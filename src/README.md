@@ -1,30 +1,46 @@
 # Enterprise Sales System
 
-Python ve veri analizi araçları kullanılarak geliştirilmiş kurumsal satış analizi projesidir.
+## 📖 Description
 
-## Proje Özellikleri
+Enterprise Sales System is a Python project developed to simulate and analyze sales data.
 
-- Rastgele satış verisi üretme
-- Eksik verileri temizleme
-- Satış verilerini analiz etme
-- Şehir, ürün ve ay bazlı raporlama
-- Excel raporu oluşturma
+The project includes data generation, preprocessing, analytics and reporting modules.
 
-## Kullanılan Teknolojiler
+---
+
+## 🚀 Features
+
+- Sales data generation
+- Data preprocessing
+- Sales analytics
+- Executive report generation
+- Excel report export
+
+---
+
+## 🛠 Technologies
 
 - Python
 - Pandas
 - NumPy
 - Jupyter Notebook
-- Excel
 
-## Proje Yapısı
+---
 
-- `src/` → Python kaynak dosyaları
-- `notebooks/` → Jupyter Notebook çalışmaları
-- `reports/` → Oluşturulan Excel raporları
-- `docs/` → Proje raporu ve açıklama dosyaları
+## 📂 Project Structure
 
-## Not
+```
+enterprise-sales-system
+│
+├── src
+├── reports
+├── notebooks
+├── docs
+└── README.md
+```
 
-Bu proje Python bootcamp sürecinde geliştirilmiş ve daha sonra GitHub portföyü için yeniden düzenlenmiştir.
+---
+
+## 👩‍💻 Author
+
+Yağmur Gelmedi
